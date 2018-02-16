@@ -1,0 +1,125 @@
+{
+	"personal_info": {
+        "name": "Nishant Gupta",
+        "employee_id": "0174676",
+        "address": "C 101, Sector 56, Gurgaon"
+	},
+    "Cab_info": {
+        "pickup": [
+            {
+                "date" : "2018-02-11",
+                "route_name": "",
+                "cab_id": "",
+                "vehicle_no": "",
+                "driver_name": "",
+                "driver_contact": "",
+                "shift_time": "",
+                "pickup_time": "",
+                "nodal_point": "",
+                "colleague_info": [],
+                "status": "false",
+                "roaster": "NA"
+            },
+            {
+                "date" : "2018-02-12",
+                "route_name": "DLF Gurgaon",
+                "cab_id": "G 10A",
+                "vehicle_no": "DL 5C 8844",
+                "driver_name": "Ram",
+                "driver_contact": "9999999999",
+                "shift_time": "12:00 pm",
+                "pickup_time": "10:55 am",
+                "nodal_point": "DLF Cyber Hub, Near Bus stand, Gurgaon",
+                "colleague_info": [
+                    {"name": "Priyank", "emp_id": "0174676"},
+                    {"name": "Ram", "emp_id": "0174676"},
+                    {"name": "Shyam", "emp_id": "0174676"},
+                    {"name": "Mohan", "emp_id": "0174676"},
+                    {"name": "Kishore", "emp_id": "0174676"},
+                    {"name": "Riya", "emp_id": "0174676"}
+                ],
+                "status": "true",
+                "roaster": "updated"
+            },
+            {
+                "date" : "2018-02-11",
+                "route_name": "",
+                "cab_id": "",
+                "vehicle_no": "",
+                "driver_name": "",
+                "driver_contact": "",
+                "shift_time": "",
+                "pickup_time": "",
+                "nodal_point": "",
+                "colleague_info": [],
+                "status": "false",
+                "roaster": "not updated"
+            }
+        ],
+        "drop": [
+            {
+                "date" : "2018-02-11",
+                "route_name": "DLF Gurgaon",
+                "cab_id": "93",
+                "vehicle_no": "DL 5C 8844",
+                "driver_name": "Shyam",
+                "driver_contact": "9999999999",
+                "shift_time": "09:00 pm",
+                "drop_time": "09:15 pm",
+                "drop_point": "C 101, Sector 56, Gurgaon",
+                "colleague_info": [
+                    {"name": "Priyank", "emp_id": "0174676"},
+                    {"name": "Ram", "emp_id": "0174676"},
+                    {"name": "Shyam", "emp_id": "0174676"},
+                    {"name": "Mohan", "emp_id": "0174676"},
+                    {"name": "Kishore", "emp_id": "0174676"},
+                    {"name": "Riya", "emp_id": "0174676"}
+                ],
+                "status": "false",
+                "roaster": "updated"
+            },
+            {
+                "date" : "2018-02-12",
+                "route_name": "DLF Gurgaon",
+                "cab_id": "93",
+                "vehicle_no": "DL 5C 8844",
+                "driver_name": "Shyam",
+                "driver_contact": "9999999999",
+                "shift_time": "09:00 pm",
+                "drop_time": "09:15 pm",
+                "drop_point": "C 101, Sector 56, Gurgaon",
+                "colleague_info": [
+                    {"name": "Priyank", "emp_id": "0174676"},
+                    {"name": "Ram", "emp_id": "0174676"},
+                    {"name": "Shyam", "emp_id": "0174676"},
+                    {"name": "Mohan", "emp_id": "0174676"},
+                    {"name": "Kishore", "emp_id": "0174676"},
+                    {"name": "Riya", "emp_id": "0174676"}
+                ],
+                "status": "false",
+                "roaster": "updated"
+            },
+            {
+                "date" : "2018-02-13",
+                "route_name": "DLF Gurgaon",
+                "cab_id": "93",
+                "vehicle_no": "DL 5C 8844",
+                "driver_name": "Shyam",
+                "driver_contact": "9999999999",
+                "shift_time": "09:00 pm",
+                "drop_time": "09:15 pm",
+                "drop_point": "C 101, Sector 56, Gurgaon",
+                "colleague_info": [
+                    {"name": "Priyank", "emp_id": "0174676"},
+                    {"name": "Ram", "emp_id": "0174676"},
+                    {"name": "Shyam", "emp_id": "0174676"},
+                    {"name": "Mohan", "emp_id": "0174676"},
+                    {"name": "Kishore", "emp_id": "0174676"},
+                    {"name": "Riya", "emp_id": "0174676"}
+                ],
+                "status": "false",
+                "roaster": "updated"
+            }
+        ]
+    }
+}
